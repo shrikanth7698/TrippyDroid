@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrippyDroid</string>
+    <string name="hindi">हिंदी</string>
+    <string name="spanish">Español</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="udaipur_desc">Beside shimmering Lake Pichola, with the ochre and purple ridges of the wooded Aravalli Hills stretching away in every direction, Udaipur has a romance of setting unmatched in Rajasthan and arguably in all India. Fantastical palaces, temples, havelis and countless narrow, crooked, timeless streets add the human counterpoint to the city’s natural charms. For the visitor there\'s the tranquillity of boat rides on the lake, the bustle and colour of ancient bazaars, a lively arts scene, the quaint old-world feel of its better hotels, endless tempting shops and some lovely countryside to explore on wheels, feet or horseback.</string>
+</resources>

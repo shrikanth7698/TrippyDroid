@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shrikanthravi/Downloads/android projects/TrippyDroid/ArDemo1/build/intermediates/res/merged/androidTest/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/shrikanthravi/Downloads/android projects/TrippyDroid/ArDemo1/build/intermediates/bundles/debug/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "158"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/shrikanthravi/Downloads/android projects/TrippyDroid/ArDemo1/build/intermediates/res/merged/androidTest/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/shrikanthravi/Downloads/android projects/TrippyDroid/ArDemo1/build/intermediates/bundles/debug/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/shrikanthravi/Downloads/android projects/TrippyDroid/ArDemo1/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/shrikanthravi/Downloads/android projects/TrippyDroid/ArDemo1/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endLines": "2,4",
+                        "endColumns": "44,8",
+                        "endOffsets": "95,193"
+                    }
+                }
+            ]
+        }
+    ]
+}
